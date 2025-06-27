@@ -1,4 +1,4 @@
-
+⚠️ Note: This project was originally uploaded from another GitHub account which has now been deactivated. Re-uploaded here for portfolio continuity.
 # IXIGO.com Flight Booking Automation Framework ✈️
 
 This project is a robust, scalable automation framework built using **Selenium WebDriver**, **Java**, **Maven**, **TestNG**, and **Cucumber (BDD)**. It automates the **flight booking module** of IXIGO.com, covering various real-world scenarios with data-driven testing and detailed reporting
